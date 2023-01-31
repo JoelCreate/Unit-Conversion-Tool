@@ -117,6 +117,10 @@ p{
         width: 90%;
     }
 
+    #header {
+        height: auto;
+    }
+
     /*
     #header {
         height: auto;
