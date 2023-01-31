@@ -112,10 +112,18 @@ p{
         align-items: start;
     }
 
+    h1 {
+        font-size: 1em;
+    }
+
     #container {
         width: 80vw;
         height: auto;
         max-height: 85vh;
+    }
+
+    #convert-container {
+        height: auto;
     }
 
     .conversion-box {
