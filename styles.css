@@ -113,6 +113,10 @@ p{
         height: auto;
     }
 
+    .conversion-box {
+        width: 90%;
+    }
+
     /*
     #header {
         height: auto;
