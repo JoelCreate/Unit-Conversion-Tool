@@ -106,12 +106,14 @@ p{
     MEDIA QUERIES FOR MOBILE
 **************************************/
 
-/*
+
 @media screen and (max-width: 600px) {
     #container {
         width: 80vw;
-        height: 90vh;
+        height: auto;
     }
+
+    /*
     #header {
         height: auto;
         padding: 50px 20px;
