@@ -108,9 +108,14 @@ p{
 
 
 @media screen and (max-width: 600px) {
+    body {
+        align-items: start;
+    }
+
     #container {
         width: 80vw;
         height: auto;
+        max-height: 85vh;
     }
 
     .conversion-box {
@@ -121,6 +126,13 @@ p{
         height: auto;
     }
 
+    #num-input {
+        height: 75px;
+    }
+
+    .btn {
+        font-size: 1em;
+    }
     /*
     #header {
         height: auto;
